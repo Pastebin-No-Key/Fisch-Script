@@ -49,7 +49,6 @@ This script is provided **for educational purposes only**. Using third-party scr
 
 ---
 
-## 🌟 SEO-Optimized Description for GitHub & Search Engines
 
 **Roblox Fisch Script - Best Free Roblox Script for Auto Farm, ESP, Aimbot & More!**
 
